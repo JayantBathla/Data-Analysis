@@ -3,6 +3,14 @@
 
 ## You'll find files demonstrating key concepts such as data cleaning, visualization, exploratory analysis, and statistical modeling. Each upload is designed to showcase different methods and tools as I build my skills, with detailed explanations of the processes and insights I've gained along the way.
 
-## Feel free to explore, share feedback, or use any of the resources here for your own learning!
+# Table of Contents
+### Introduction to Excel
+### Conditionals & Null Values
+### Movies Data set
+### Myntra Data Cleaning & Dashboard Building with Excel
+### Getting started with Basic SQL
+### Functions, Sorting, Groupby & Joins
+
+
 
 
